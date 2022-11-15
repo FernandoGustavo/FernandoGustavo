@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FernandoGustavo
-- 👀 I’m interested in ...
+- 👀 I’m interested in seguir na area de T.I, estudando firme para ser full stack
 - 🌱 I’m currently learning  Programção
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on produtividade
 - 📫 How to reach me  61994300354
 
 <!---
